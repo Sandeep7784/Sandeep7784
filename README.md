@@ -73,8 +73,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sandeep7784/Sandeep7784/output/snake.svg"/>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ###
