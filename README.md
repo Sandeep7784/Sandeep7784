@@ -3,14 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep7784&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&custom_title=Sandeep's%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep7784&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Sandeep7784&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep7784&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<h3 align="center">Total Commits: [Your Total Commit Count]</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
@@ -71,12 +69,6 @@
   <a href="https://www.linkedin.com/in/sandeep-singh-401486227/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 ###
